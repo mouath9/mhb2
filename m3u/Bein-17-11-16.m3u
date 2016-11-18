@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1,|--Bein Channels--|
+http://188.165.210.130:8000/live/131michaelheike/m2uoQKB65w/3306.ts
+#EXTINF:-1,AR:BEIN SPORTS 1 HD
+http://188.165.210.130:8000/live/131michaelheike/m2uoQKB65w/1914.ts
+#EXTINF:-1,AR:BEIN SPORTS 2 HD
+http://188.165.210.130:8000/live/131michaelheike/m2uoQKB65w/1913.ts
+#EXTINF:-1,AR:BEIN SPORTS 3 HD
+http://188.165.210.130:8000/live/131michaelheike/m2uoQKB65w/1912.ts
+#EXTINF:-1,AR:BEIN SPORTS 4 HD
+http://188.165.210.130:8000/live/131michaelheike/m2uoQKB65w/1911.ts
+#EXTINF:-1,AR:BEIN SPORTS 5 HD
+http://188.165.210.130:8000/live/131michaelheike/m2uoQKB65w/1910.ts
+#EXTINF:-1,AR:BEIN SPORTS 6 HD
+http://188.165.210.130:8000/live/131michaelheike/m2uoQKB65w/1909.ts
+#EXTINF:-1,AR:BEIN SPORTS 7 HD
+http://188.165.210.130:8000/live/131michaelheike/m2uoQKB65w/1908.ts
+#EXTINF:-1,AR:BEIN SPORTS 8 HD
+http://188.165.210.130:8000/live/131michaelheike/m2uoQKB65w/1907.ts
+#EXTINF:-1,AR:BEIN SPORTS 9 HD
+http://188.165.210.130:8000/live/131michaelheike/m2uoQKB65w/1906.ts
+#EXTINF:-1,AR:BEIN SPORTS 10 HD
+http://188.165.210.130:8000/live/131michaelheike/m2uoQKB65w/1905.ts
+#EXTINF:-1,AR:BEIN SPORTS 11 HD
+http://188.165.210.130:8000/live/131michaelheike/m2uoQKB65w/5139.ts
+#EXTINF:-1,AR:BEIN SPORTS 12 HD
+http://188.165.210.130:8000/live/131michaelheike/m2uoQKB65w/5140.ts
+#EXTINF:-1,AR:BEIN SPORTS 13 HD
+http://188.165.210.130:8000/live/131michaelheike/m2uoQKB65w/5141.ts
+#EXTINF:-1,AR:BEIN SPORTS 14 HD
+http://188.165.210.130:8000/live/131michaelheike/m2uoQKB65w/5142.ts
+#EXTINF:-1,AR:BEIN SPORTS 15 HD
+http://188.165.210.130:8000/live/131michaelheike/m2uoQKB65w/5143.ts
+#EXTINF:-1,FR:BEIN SPORTS 1 HD
+http://188.165.210.130:8000/live/131michaelheike/m2uoQKB65w/54.ts
+#EXTINF:-1,FR:BEIN SPORTS 2 HD
+http://188.165.210.130:8000/live/131michaelheike/m2uoQKB65w/53.ts
+#EXTINF:-1,FR:BEIN SPORTS 3 HD
+http://188.165.210.130:8000/live/131michaelheike/m2uoQKB65w/51.ts
+#EXTINF:-1,ES:BEINSPORT HD
+http://188.165.210.130:8000/live/131michaelheike/m2uoQKB65w/4885.ts
+#EXTINF:-1,AR: BEIN SPORT 1 (1)
+http://iptv.amrocomputers.com:8000/live/U0iO44RZ1F/R57iAxYbl7/2872.ts
+#EXTINF:-1,AR: BEIN SPORT 2 (1)
+http://iptv.amrocomputers.com:8000/live/U0iO44RZ1F/R57iAxYbl7/2873.ts
+#EXTINF:-1,AR: BEIN SPORT 3 (1)
+http://iptv.amrocomputers.com:8000/live/U0iO44RZ1F/R57iAxYbl7/2874.ts
+#EXTINF:-1,AR: BEIN SPORT 4 (1)
+http://iptv.amrocomputers.com:8000/live/U0iO44RZ1F/R57iAxYbl7/2875.ts
+#EXTINF:-1,AR: BEIN SPORT 5 (1)
+http://iptv.amrocomputers.com:8000/live/U0iO44RZ1F/R57iAxYbl7/2876.ts
+#EXTINF:-1,AR: BEIN SPORT 6 (1)
+http://iptv.amrocomputers.com:8000/live/U0iO44RZ1F/R57iAxYbl7/2877.ts
